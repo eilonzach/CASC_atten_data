@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): UMAT
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2013-08-10T00:00:00
+* END               : 2014-06-23T24:60:60
+* DESCRIPTION       : Pilot Rock, OR, USA
+* LATITUDE          : 45.290400 
+* LONGITUDE         : -118.959500
+* ELEVATION         : 1318.0 
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 359.9
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3TTA-TSR95=Q330-1937
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.291450e+08 (M/S)
+* A0                : 5.715080e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.700800e-02	+3.700800e-02
+	-3.700800e-02	-3.700800e-02
+	-5.026500e+02	+0.000000e+00
+	-1.005000e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+3.595614e+17

@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): LTY
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2011-05-07T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Liberty BB CREST SMO
+* LATITUDE          : 47.254510 
+* LONGITUDE         : -120.666360
+* ELEVATION         : 807.0  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : GT3134-3134=RT130-AB2D
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 9.434370e+08 (M/S)
+* A0                : 5.715080e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.700800e-02	+3.700800e-02
+	-3.700800e-02	-3.700800e-02
+	-5.026500e+02	+0.000000e+00
+	-1.005000e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+5.391818e+17

@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): G03A
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2011-11-17T00:00:00
+* END               : 2012-05-13T23:59:59
+* DESCRIPTION       : WHOI OBS ID S87
+* LATITUDE          : 40.059100 
+* LONGITUDE         : -126.162500
+* ELEVATION         : -4113.0
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Guralp CMG3T_120sec WHOI OBSIP/Quanterra Q330 Line
+* INSTGAIN          : 1.489990e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.249470e+08 (M/S)
+* A0                : 5.715140e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.700800e-02	+3.700800e-02
+	-3.700800e-02	-3.700800e-02
+	-5.026500e+02	+0.000000e+00
+	-1.005300e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+3.571660e+17

@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): SP2
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHE
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2011-08-25T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Seward Park, Seattle SMO-IDS24 BB(7/97)
+* LATITUDE          : 47.556290 
+* LONGITUDE         : -122.249230
+* ELEVATION         : 30.0   
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 90.0 
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3ESP_30-323=RT130-AB51
+* INSTGAIN          : 2.000000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 1.148650e+09 (M/S)
+* A0                : 5.715080e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-1.486000e-01	+1.486000e-01
+	-1.486000e-01	-1.486000e-01
+	-5.026500e+02	+0.000000e+00
+	-1.005000e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+6.564626e+17

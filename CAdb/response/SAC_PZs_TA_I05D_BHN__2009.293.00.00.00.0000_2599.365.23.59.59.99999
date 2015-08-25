@@ -1,0 +1,40 @@
+* **********************************
+* NETWORK   (KNETWK): TA
+* STATION    (KSTNM): I05D
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2009-10-20T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Terrebonne, OR, USA
+* LATITUDE          : 44.338600 
+* LONGITUDE         : -121.339500
+* ELEVATION         : 811.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 240 Sec Response sn 400 and a
+* INSTGAIN          : 1.197020e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 5.020650e+08 (M/S)
+* A0                : 4.528260e+05
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-9.166000e+01	+0.000000e+00
+	-1.601000e+02	+0.000000e+00
+	-3.207000e+03	+0.000000e+00
+POLES	7
+	-1.770000e-02	+1.760000e-02
+	-1.770000e-02	-1.760000e-02
+	-1.267000e+02	+0.000000e+00
+	-1.920000e+02	+2.591000e+02
+	-1.920000e+02	-2.591000e+02
+	-5.577000e+02	+1.143000e+03
+	-5.577000e+02	-1.143000e+03
+CONSTANT	+2.273481e+14

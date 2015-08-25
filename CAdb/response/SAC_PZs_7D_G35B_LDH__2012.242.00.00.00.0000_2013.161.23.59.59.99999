@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): G35B
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): LDH
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2012-08-29T00:00:00
+* END               : 2013-06-10T23:59:59
+* DESCRIPTION       : WHOI OBS ID T109
+* LATITUDE          : 42.565800 
+* LONGITUDE         : -126.055800
+* ELEVATION         : -2367.0
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 1.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : SIO Differential Pressure Gauge/Quanterra Q330 Lin
+* INSTGAIN          : 1.841060e-03 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : -7.721950e+02 (PA)
+* A0                : 1.070500e+03
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-1.165600e+04	+0.000000e+00
+POLES	5
+	-1.052600e-02	+0.000000e+00
+	-5.747100e+01	+0.000000e+00
+	-1.000000e+02	+0.000000e+00
+	-2.127700e-01	+0.000000e+00
+	-1.655600e+03	+0.000000e+00
+CONSTANT	-8.266348e+05

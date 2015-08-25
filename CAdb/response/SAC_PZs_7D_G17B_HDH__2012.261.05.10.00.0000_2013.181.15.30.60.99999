@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): G17B
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HDH
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2012-09-17T05:10:00
+* END               : 2013-06-30T15:30:60
+* DESCRIPTION       : LDEO OBS TRAWL-RESISTANT
+* LATITUDE          : 41.283900 
+* LONGITUDE         : -124.344600
+* ELEVATION         : -123.0 
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 125.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Parosci APG Pressure/LDEO_APG_logger
+* INSTGAIN          : 1.000000e+00 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : 9.972540e+01 (PA)
+* A0                : 2.204750e+19
+* **********************************
+ZEROS	0
+POLES	8
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+CONSTANT	+2.198696e+21

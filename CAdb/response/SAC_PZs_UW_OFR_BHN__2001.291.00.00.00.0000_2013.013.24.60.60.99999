@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): OFR
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2001-10-18T00:00:00
+* END               : 2013-01-13T24:60:60
+* DESCRIPTION       : Olympics - Forest Resource Center
+* LATITUDE          : 47.933130 
+* LONGITUDE         : -124.396040
+* ELEVATION         : 152.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G40T_60-4872=72A07-7941
+* INSTGAIN          : 8.000000e+02 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 4.194300e+08 (M/S)
+* A0                : 5.717550e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-7.402000e-02	-7.402000e-02
+	-7.402000e-02	+7.402000e-02
+	-5.026600e+02	+0.000000e+00
+	-1.005300e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+2.398112e+17

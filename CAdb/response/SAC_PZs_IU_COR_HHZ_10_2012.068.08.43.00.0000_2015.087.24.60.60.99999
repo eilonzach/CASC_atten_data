@@ -1,0 +1,39 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): COR
+* LOCATION   (KHOLE): 10
+* CHANNEL   (KCMPNM): HHZ
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2012-03-08T08:43:00
+* END               : 2015-03-28T24:60:60
+* DESCRIPTION       : Corvallis, Oregon, USA
+* LATITUDE          : 44.585500 
+* LONGITUDE         : -123.304600
+* ELEVATION         : 110.0  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Trillium 240 broad band
+* INSTGAIN          : 1.184790e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 1.987750e+09 (M/S)
+* A0                : 2.320230e+09
+* **********************************
+ZEROS	5
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-1.080000e+02	+0.000000e+00
+	-1.610000e+02	+0.000000e+00
+POLES	7
+	-1.793850e-02	+1.778900e-02
+	-1.793850e-02	-1.778900e-02
+	-1.730000e+02	+0.000000e+00
+	-1.960000e+02	+2.310000e+02
+	-1.960000e+02	-2.310000e+02
+	-7.320000e+02	+1.415000e+03
+	-7.320000e+02	-1.415000e+03
+CONSTANT	+4.612037e+18

@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): US
+* STATION    (KSTNM): NLWA
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2011-05-02T22:39:00
+* END               : 2999-12-31T23:59:59
+* DESCRIPTION       : Neilton Lookout, Washington, USA
+* LATITUDE          : 47.391700 
+* LONGITUDE         : -123.869100
+* ELEVATION         : 640.0  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : STS2-I=80416=Gen=Q330SR=1253
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.291450e+08 (M/S)
+* A0                : 4.853940e+07
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.702370e-02	+3.702440e-02
+	-3.702370e-02	-3.702440e-02
+	-2.513270e+02	+0.000000e+00
+	-1.186340e+02	+4.230650e+02
+	-1.186340e+02	-4.230650e+02
+CONSTANT	+3.053832e+16

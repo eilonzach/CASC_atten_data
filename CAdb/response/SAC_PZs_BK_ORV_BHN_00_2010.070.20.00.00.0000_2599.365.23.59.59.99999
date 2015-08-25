@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): BK
+* STATION    (KSTNM): ORV
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2010-03-11T20:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Oroville Dam, Oroville, CA, USA
+* LATITUDE          : 39.554510 
+* LONGITUDE         : -121.500360
+* ELEVATION         : 334.7  
+* DEPTH             : 3.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1 VBB Feedback Seismometer
+* INSTGAIN          : 2.216000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 3.717830e+09 (M/S)
+* A0                : 3.939250e+03
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	4
+	-1.234120e-02	+1.234150e-02
+	-1.234120e-02	-1.234150e-02
+	-3.917570e+01	+4.912340e+01
+	-3.917570e+01	-4.912340e+01
+CONSTANT	+1.464546e+13

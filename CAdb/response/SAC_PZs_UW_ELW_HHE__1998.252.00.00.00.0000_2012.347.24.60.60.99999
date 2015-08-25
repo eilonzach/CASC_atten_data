@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): ELW
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHE
+* CREATED           : 2015-08-11T18:10:36
+* START             : 1998-09-09T00:00:00
+* END               : 2012-12-12T24:60:60
+* DESCRIPTION       : EchoLakeBPA
+* LATITUDE          : 47.494100 
+* LONGITUDE         : -121.872670
+* ELEVATION         : 267.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 90.0 
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G40T_60-4537=IDS24-SN112
+* INSTGAIN          : 8.000000e+02 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 8.396340e+08 (M/S)
+* A0                : 5.717550e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-7.402000e-02	-7.402000e-02
+	-7.402000e-02	+7.402000e-02
+	-5.026600e+02	+0.000000e+00
+	-1.005300e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+4.800649e+17

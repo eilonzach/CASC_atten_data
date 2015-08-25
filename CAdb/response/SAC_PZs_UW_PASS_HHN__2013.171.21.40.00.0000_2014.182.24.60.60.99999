@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): PASS
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2013-06-20T21:40:00
+* END               : 2014-07-01T24:60:60
+* DESCRIPTION       : Maple Falls, WA, USA
+* LATITUDE          : 48.998300 
+* LONGITUDE         : -122.085200
+* ELEVATION         : 174.3  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.1  
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3TNSN-3132=Q330-XXXX
+* INSTGAIN          : 1.510000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.333390e+08 (M/S)
+* A0                : 4.514500e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-1.480800e-01	+1.480800e-01
+	-1.480800e-01	-1.480800e-01
+	-3.770000e+02	+0.000000e+00
+	-9.420000e+02	+0.000000e+00
+	-1.257000e+03	+0.000000e+00
+CONSTANT	+2.859209e+17

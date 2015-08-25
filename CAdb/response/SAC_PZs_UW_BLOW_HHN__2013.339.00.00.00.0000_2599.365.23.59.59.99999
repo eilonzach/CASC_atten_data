@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): BLOW
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2013-12-05T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Detroit Lake, OR, USA
+* LATITUDE          : 44.683700 
+* LONGITUDE         : -122.186200
+* ELEVATION         : 652.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 358.4
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3TTA-XXXX=Q330-XXXX
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.291450e+08 (M/S)
+* A0                : 5.715080e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.700800e-02	+3.700800e-02
+	-3.700800e-02	-3.700800e-02
+	-5.026500e+02	+0.000000e+00
+	-1.005000e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+3.595614e+17

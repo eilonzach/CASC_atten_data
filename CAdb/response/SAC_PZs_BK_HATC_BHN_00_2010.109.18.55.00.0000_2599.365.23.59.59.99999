@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): BK
+* STATION    (KSTNM): HATC
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2010-04-19T18:55:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Hat Creek Radio Astronomy Obs., Cassel, CA, USA
+* LATITUDE          : 40.816100 
+* LONGITUDE         : -121.461170
+* ELEVATION         : 1008.6 
+* DEPTH             : 0.7  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-2 VBB Tri-Axial Seismometer
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 2.516580e+09 (M/S)
+* A0                : 4.862460e+07
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.702370e-02	+3.702440e-02
+	-3.702370e-02	-3.702440e-02
+	-1.187520e+02	+4.234880e+02
+	-1.187520e+02	-4.234880e+02
+	-2.513270e+02	+0.000000e+00
+CONSTANT	+1.223677e+17

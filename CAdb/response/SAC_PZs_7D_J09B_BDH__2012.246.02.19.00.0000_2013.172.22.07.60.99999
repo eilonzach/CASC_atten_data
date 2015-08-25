@@ -1,0 +1,29 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): J09B
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BDH
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2012-09-02T02:19:00
+* END               : 2013-06-21T22:07:60
+* DESCRIPTION       : SIO OBS ID J09B
+* LATITUDE          : 40.201100 
+* LONGITUDE         : -124.727000
+* ELEVATION         : -252.0 
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Differential Pressure Gauge OBSIP-SIO/ABALONES-4x4
+* INSTGAIN          : 7.297020e-06 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : 1.153110e+03 (PA)
+* A0                : 1.000410e+00
+* **********************************
+ZEROS	1
+	+0.000000e+00	+0.000000e+00
+POLES	1
+	-1.256800e-02	+0.000000e+00
+CONSTANT	+1.153583e+03

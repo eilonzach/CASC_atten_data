@@ -1,0 +1,40 @@
+* **********************************
+* NETWORK   (KNETWK): TA
+* STATION    (KSTNM): M04C
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2011-05-02T15:30:00
+* END               : 2014-04-15T19:55:60
+* DESCRIPTION       : Macdoel, CA, USA
+* LATITUDE          : 41.782600 
+* LONGITUDE         : -121.839300
+* ELEVATION         : 1391.0 
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 240 Sec Response sn 400 and a
+* INSTGAIN          : 1.197140e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 5.021160e+08 (M/S)
+* A0                : 4.527790e+05
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-9.166000e+01	+0.000000e+00
+	-1.601000e+02	+0.000000e+00
+	-3.207000e+03	+0.000000e+00
+POLES	7
+	-1.770000e-02	+1.760000e-02
+	-1.770000e-02	-1.760000e-02
+	-1.267000e+02	+0.000000e+00
+	-1.920000e+02	+2.591000e+02
+	-1.920000e+02	-2.591000e+02
+	-5.577000e+02	+1.143000e+03
+	-5.577000e+02	-1.143000e+03
+CONSTANT	+2.273476e+14

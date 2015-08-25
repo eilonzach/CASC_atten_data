@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): LON
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2000-03-02T00:00:00
+* END               : 2011-08-26T24:60:60
+* DESCRIPTION       : Longmire CREST broad-band
+* LATITUDE          : 46.750600 
+* LONGITUDE         : -121.809600
+* ELEVATION         : 853.0  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3TNSN-T352=72A07-7939
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 7.864320e+08 (M/S)
+* A0                : 4.464300e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-1.480800e-01	-1.480800e-01
+	-1.480800e-01	+1.480800e-01
+	-3.770000e+02	+0.000000e+00
+	-9.420000e+02	+0.000000e+00
+	-1.257000e+03	+0.000000e+00
+CONSTANT	+3.510869e+17

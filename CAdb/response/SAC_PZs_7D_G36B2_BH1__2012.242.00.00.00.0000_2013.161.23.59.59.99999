@@ -1,0 +1,38 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): G36B2
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2012-08-29T00:00:00
+* END               : 2013-06-10T23:59:59
+* DESCRIPTION       : WHOI OBS ID T101
+* LATITUDE          : 42.599400 
+* LONGITUDE         : -126.903800
+* ELEVATION         : -2423.0
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics trillium_compact_obs WHOI OBSIP/Quante
+* INSTGAIN          : 7.477890e+02 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 3.136450e+08 (M/S)
+* A0                : 8.198350e+11
+* **********************************
+ZEROS	4
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-4.341000e+02	+0.000000e+00
+POLES	7
+	-3.691000e-02	+3.712000e-02
+	-3.691000e-02	-3.712000e-02
+	-3.712000e+02	+0.000000e+00
+	-3.739000e+02	+4.755000e+02
+	-3.739000e+02	-4.755000e+02
+	-5.884000e+02	+1.508000e+03
+	-5.884000e+02	-1.508000e+03
+CONSTANT	+2.571371e+20

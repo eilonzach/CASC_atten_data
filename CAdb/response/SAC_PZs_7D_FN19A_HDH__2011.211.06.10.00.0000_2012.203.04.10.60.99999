@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): FN19A
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HDH
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2011-07-30T06:10:00
+* END               : 2012-07-21T04:10:60
+* DESCRIPTION       : LDEO Trawl-Resistant OBS Site FN19A
+* LATITUDE          : 46.729800 
+* LONGITUDE         : -124.367100
+* ELEVATION         : -75.0  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 125.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Parosci APG Pressure/LDEO_APG_logger
+* INSTGAIN          : 1.000000e+00 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : 9.972540e+01 (PA)
+* A0                : 2.204750e+19
+* **********************************
+ZEROS	0
+POLES	8
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+	-2.617700e+02	+0.000000e+00
+CONSTANT	+2.198696e+21

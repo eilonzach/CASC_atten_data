@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): US
+* STATION    (KSTNM): HAWA
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2011-05-02T21:24:00
+* END               : 2999-12-31T23:59:59
+* DESCRIPTION       : Hanford, Washington, USA
+* LATITUDE          : 46.392500 
+* LONGITUDE         : -119.532700
+* ELEVATION         : 364.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : STS2-I=80438=Gen=Q330SR=0744
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.291450e+08 (M/S)
+* A0                : 4.853940e+07
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.702370e-02	+3.702440e-02
+	-3.702370e-02	-3.702440e-02
+	-2.513270e+02	+0.000000e+00
+	-1.186340e+02	+4.230650e+02
+	-1.186340e+02	-4.230650e+02
+CONSTANT	+3.053832e+16

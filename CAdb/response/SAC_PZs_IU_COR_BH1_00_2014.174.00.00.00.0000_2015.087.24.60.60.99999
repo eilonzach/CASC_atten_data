@@ -1,0 +1,38 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): COR
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2014-06-23T00:00:00
+* END               : 2015-03-28T24:60:60
+* DESCRIPTION       : Corvallis, Oregon, USA
+* LATITUDE          : 44.585500 
+* LONGITUDE         : -123.304600
+* ELEVATION         : 110.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 1.0  
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1VBB w/E300
+* INSTGAIN          : 2.753750e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 4.620020e+09 (M/S)
+* A0                : 3.958450e+03
+* **********************************
+ZEROS	5
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-2.377890e-02	+0.000000e+00
+	-2.377890e-02	+0.000000e+00
+POLES	6
+	-1.336810e-02	+7.148000e-03
+	-1.336810e-02	-7.148000e-03
+	-2.725060e-02	+0.000000e+00
+	-2.579490e-02	+0.000000e+00
+	-3.918000e+01	+4.912000e+01
+	-3.918000e+01	-4.912000e+01
+CONSTANT	+1.828812e+13

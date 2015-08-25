@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): BK
+* STATION    (KSTNM): YBH
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): HHZ
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2012-02-07T21:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Yreka Blue Horn Mine, Yreka, CA, USA
+* LATITUDE          : 41.732040 
+* LONGITUDE         : -122.710390
+* ELEVATION         : 1059.7 
+* DEPTH             : 60.4 
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 100.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1/E300 VBB Feedback Seismometer
+* INSTGAIN          : 3.387800e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 5.683790e+09 (M/S)
+* A0                : 5.844770e+03
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	4
+	-1.216940e-02	+1.224200e-02
+	-1.216940e-02	-1.224200e-02
+	-3.638120e+01	+6.739990e+01
+	-3.638120e+01	-6.739990e+01
+CONSTANT	+3.322044e+13

@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): J55A
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): LDH
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2011-11-24T00:00:00
+* END               : 2012-05-19T23:59:59
+* DESCRIPTION       : WHOI OBS ID T112
+* LATITUDE          : 47.530500 
+* LONGITUDE         : -129.707600
+* ELEVATION         : -2800.0
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 1.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : SIO Differential Pressure Gauge/Quanterra Q330 Lin
+* INSTGAIN          : 1.841060e-03 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : -7.721950e+02 (PA)
+* A0                : 1.070500e+03
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-1.165600e+04	+0.000000e+00
+POLES	5
+	-1.052600e-02	+0.000000e+00
+	-5.747100e+01	+0.000000e+00
+	-1.000000e+02	+0.000000e+00
+	-2.127700e-01	+0.000000e+00
+	-1.655600e+03	+0.000000e+00
+CONSTANT	-8.266348e+05

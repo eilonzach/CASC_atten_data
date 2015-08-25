@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): J23B
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): LDH
+* CREATED           : 2015-08-11T18:10:36
+* START             : 2012-08-24T00:00:00
+* END               : 2013-06-06T23:59:59
+* DESCRIPTION       : WHOI OBS ID S86
+* LATITUDE          : 44.845900 
+* LONGITUDE         : -129.682100
+* ELEVATION         : -2650.0
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 1.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : SIO Differential Pressure Gauge/QEP - Q330 Environ
+* INSTGAIN          : 2.402670e-03 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : -1.343670e+03 (PA)
+* A0                : 8.202790e+02
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	-1.165600e+04	+0.000000e+00
+POLES	5
+	-1.052600e-02	+0.000000e+00
+	-5.747100e+01	+0.000000e+00
+	-1.000000e+02	+0.000000e+00
+	-2.127700e-01	+0.000000e+00
+	-1.655600e+03	+0.000000e+00
+CONSTANT	-1.102184e+06

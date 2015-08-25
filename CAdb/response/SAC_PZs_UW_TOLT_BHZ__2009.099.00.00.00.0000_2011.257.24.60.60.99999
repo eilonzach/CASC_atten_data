@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): TOLT
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2009-04-09T00:00:00
+* END               : 2011-09-14T24:60:60
+* DESCRIPTION       : Tolt Res, WA old TA-C05A
+* LATITUDE          : 47.694700 
+* LONGITUDE         : -121.689500
+* ELEVATION         : 541.0  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3TNSN-3135=72A07-7863
+* INSTGAIN          : 1.500000e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 7.864320e+08 (M/S)
+* A0                : 4.464300e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-1.480800e-01	-1.480800e-01
+	-1.480800e-01	+1.480800e-01
+	-3.770000e+02	+0.000000e+00
+	-9.420000e+02	+0.000000e+00
+	-1.257000e+03	+0.000000e+00
+CONSTANT	+3.510869e+17

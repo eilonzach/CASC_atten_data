@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): MRBL
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2008-11-10T00:00:00
+* END               : 2014-03-06T21:50:60
+* DESCRIPTION       : Marblemount, WA, USA
+* LATITUDE          : 48.518300 
+* LONGITUDE         : -121.484500
+* ELEVATION         : 75.0   
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 359.9
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G3TTA-XXXX=Q330-XXXX
+* INSTGAIN          : 1.504200e+03 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 6.309070e+08 (M/S)
+* A0                : 5.714000e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-3.701000e-02	+3.701000e-02
+	-3.701000e-02	-3.701000e-02
+	-1.131000e+03	+0.000000e+00
+	-1.005000e+03	+0.000000e+00
+	-5.027000e+02	+0.000000e+00
+CONSTANT	+3.605003e+17

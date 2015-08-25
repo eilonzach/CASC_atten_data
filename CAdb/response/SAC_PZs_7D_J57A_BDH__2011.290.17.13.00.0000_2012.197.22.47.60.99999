@@ -1,0 +1,29 @@
+* **********************************
+* NETWORK   (KNETWK): 7D
+* STATION    (KSTNM): J57A
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BDH
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2011-10-17T17:13:00
+* END               : 2012-07-15T22:47:60
+* DESCRIPTION       : SIO OBS ID J57A
+* LATITUDE          : 47.080100 
+* LONGITUDE         : -124.450500
+* ELEVATION         : -55.8  
+* DEPTH             : 0.0  
+* DIP               : 0.0  
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Differential Pressure Gauge OBSIP-SIO/ABALONES-4x4
+* INSTGAIN          : 7.297020e-06 (PA)
+* COMMENT           : N/A
+* SENSITIVITY       : 1.153110e+03 (PA)
+* A0                : 1.000410e+00
+* **********************************
+ZEROS	1
+	+0.000000e+00	+0.000000e+00
+POLES	1
+	-1.256800e-02	+0.000000e+00
+CONSTANT	+1.153583e+03

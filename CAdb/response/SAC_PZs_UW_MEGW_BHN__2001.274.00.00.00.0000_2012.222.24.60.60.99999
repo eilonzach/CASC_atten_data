@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UW
+* STATION    (KSTNM): MEGW
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2015-08-11T18:10:37
+* START             : 2001-10-01T00:00:00
+* END               : 2012-08-09T24:60:60
+* DESCRIPTION       : Megler, WA CREST BB SMO
+* LATITUDE          : 46.266090 
+* LONGITUDE         : -123.877090
+* ELEVATION         : 351.0  
+* DEPTH             : 0.0  
+* DIP               : 90.0 
+* AZIMUTH           : 0.0  
+* SAMPLE RATE       : 50.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : G40T_60-4875=72A07-7938
+* INSTGAIN          : 7.996000e+02 (M/S)
+* COMMENT           : N/A
+* SENSITIVITY       : 4.192210e+08 (M/S)
+* A0                : 5.717550e+08
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+	+0.000000e+00	+0.000000e+00
+POLES	5
+	-7.402000e-02	-7.402000e-02
+	-7.402000e-02	+7.402000e-02
+	-5.026600e+02	+0.000000e+00
+	-1.005300e+03	+0.000000e+00
+	-1.131000e+03	+0.000000e+00
+CONSTANT	+2.396917e+17
