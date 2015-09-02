@@ -526,7 +526,8 @@ def write_sac_response_file(channel_obj,respfile,network=None,station=None,comme
 	 i.e. channel_obj = inventory[inn][iss][icc]
 	 respfile is the full path to the output file (inc. its name)
 	 network and station are strings that give the network code and station code
-	 comment is for optional comments (a string)"""
+	 comment is for optional comments (a string)
+	 Written by Z. Eilon 08/2015"""
 	resp = channel.response
 	pzs = resp.get_paz()
 	
